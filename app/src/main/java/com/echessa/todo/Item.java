@@ -1,7 +1,7 @@
-package com.sitepoint.todo;
+package com.echessa.todo;
 
 /**
- * Created by echessa on 3/10/16.
+ * Created by echessa on 8/27/16.
  */
 public class Item {
 

@@ -1,4 +1,4 @@
-package com.sitepoint.todo;
+package com.echessa.todo;
 
 import org.junit.Test;
 
